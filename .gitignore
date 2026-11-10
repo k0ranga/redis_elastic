@@ -1,0 +1,10 @@
+# Dependency folder (massive size, downloaded via npm install)
+node_modules/
+
+# Secrets and environment configurations
+.env
+.env.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
